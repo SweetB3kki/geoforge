@@ -1,0 +1,1 @@
+{"name":"GeoForge.Tests","references":["GeoForge"],"includePlatforms":["Editor"],"optionalUnityReferences":["TestAssemblies"],"overrideReferences":true,"precompiledReferences":["nunit.framework.dll","Newtonsoft.Json.dll"]}
